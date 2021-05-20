@@ -2,8 +2,6 @@ package com.algaworks.algalog.api.controller;
 
 import java.util.List;
 
-import javax.validation.Valid;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -89,7 +87,7 @@ public class ClienteController {
 	// um objeto java
 	@PostMapping
 	@ResponseStatus(HttpStatus.CREATED)// define um retorno padrao em caso de sucesso
-	public Cliente adicionarCliente (@Valid @RequestBody Cliente cliente) {
+	public Cliente adicionarCliente (@RequestBody Cliente cliente) {
 		// chama o metodo save que salva os dados no banco e retorna o registro incluido
 		return clienteRepository.save(cliente);
 		
@@ -97,7 +95,7 @@ public class ClienteController {
 	
 	@PutMapping("/{clienteId}")
 	public ResponseEntity<Cliente> atualizarCliente(@PathVariable Long clienteId, 
-		@Valid	@RequestBody Cliente cliente){
+			@RequestBody Cliente cliente){
 		
 		// verificando se o cliente existe
 		if (!clienteRepository.existsById(clienteId) ) {
