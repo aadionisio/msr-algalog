@@ -1,0 +1,59 @@
+package com.algaworks.algalog.api.controller;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.algaworks.algalog.domain.model.Cliente;
+import com.algaworks.algalog.domain.repository.ClienteRepository;
+
+//@AllArgsConstructor // cria toda a parte de construtores caso nao existam.
+// ele  substituiir o autowired. 
+@RestController
+public class ClienteController {
+	
+	@Autowired
+	private ClienteRepository clienteRepository;
+	
+	@GetMapping("/clientes")
+	public List<Cliente>listar() {
+		
+		return clienteRepository.findAll();
+		
+		
+//		return manager.createQuery("from Cliente", Cliente.class)
+//				.getResultList();
+		
+		
+//		var cliente1 = new Cliente();
+//		
+//		cliente1.setId(1L);
+//		cliente1.setNome("João2");
+//		cliente1.setTelefone("35 35356581");
+//		cliente1.setEmail("joaodastretas@portalis.com");
+//		
+//		var cliente2 = new Cliente();
+//		
+//		cliente2.setId(2L);
+//		cliente2.setNome("Maria2");
+//		cliente2.setTelefone("45 366556581");
+//		cliente2.setEmail("jmariadasastretas@portalis.com");		
+//		
+//		return Arrays.asList(cliente1, cliente2); 
+				
+	}		
+	
+	@GetMapping("/clientes/{clienteId}")
+	// pathvariable vincula o parametro clienteid que esta na rota
+	// com o parametro declarado na função
+	public Cliente buscarPorCodigo(@PathVariable Long clientId) {
+		
+	}
+
+}

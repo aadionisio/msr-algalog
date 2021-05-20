@@ -1,0 +1,30 @@
+package com.algaworks.algalog.api.controller;
+
+import java.util.Arrays;
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Classe{
+
+	public static void main(String[] args) {
+
+		Locale.setDefault(new Locale("en", "US"));
+
+		Scanner sc = new Scanner(System.in);
+		
+		String[] cpf = new String[4]; 
+		
+		String teste = "995.719.603-06";
+
+               
+		cpf = teste.split(".");
+//		cpf = sc.nextLine().split("-,");
+
+
+	    System.out.println(Arrays.toString(cpf));	
+		
+		//	System.out.printf("%s\n",cpf[i]);
+		//}
+		//sc.close();
+	}
+}

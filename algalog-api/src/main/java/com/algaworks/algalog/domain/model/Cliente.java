@@ -1,0 +1,36 @@
+package com.algaworks.algalog.domain.model;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import lombok.EqualsAndHashCode;
+import lombok.Getter;
+import lombok.Setter;
+
+//lombok gerencia a criacao do equals e hashcode
+// onlyexplicity = true ativa esse monitoramento apenas nas 
+// colunas indicadas com o a tag equalsandhashcode.include;
+@EqualsAndHashCode(onlyExplicitlyIncluded = true)
+@Getter
+@Setter
+@Entity
+@Table(name="cliente")
+public class Cliente {
+	
+	@EqualsAndHashCode.Include
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long id;
+	@Column(name = "nome")
+	private String nome;
+	private String email;
+	@Column(name = "fone")
+	private String telefone;
+	
+	
+
+}

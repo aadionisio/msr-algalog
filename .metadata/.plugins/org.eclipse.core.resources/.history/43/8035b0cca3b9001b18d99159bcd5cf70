@@ -1,0 +1,27 @@
+package com.algaworks.algalog.api.controller;
+
+import java.util.Scanner;
+import java.util.Locale;
+
+public class Classe{
+	public static void main(String[] args) {
+
+		Locale.setDefault(new Locale("en", "US"));
+
+		Scanner sc = new Scanner(System.in);
+		
+		String[] cpf = new String[4]; 
+
+                //continue a solucao
+
+		cpf = sc.nextLine().split("[.-]");       
+
+     for(String i:cpf){
+            System.out.printf("%s\n",i);
+        }
+
+			
+
+		sc.close();
+	}
+}
