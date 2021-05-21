@@ -1,0 +1,25 @@
+package com.algaworks.algalog.domain.service;
+
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.algaworks.algalog.domain.model.Cliente;
+import com.algaworks.algalog.domain.repository.ClienteRepository;
+
+import lombok.AllArgsConstructor;
+@AllArgsConstructor
+@Service // indica que essa classe sera um servico do spring e que ela realizara processos de negocios
+public class CatalogoClienteService {
+   private ClienteRepository clienteRepository;
+   @Transactional // anotação que diz que esse metodo só pode ser executado durante uma transação com o banco de dados
+   public Cliente salvar(Cliente cliente) {
+	   // todo o codigo que trata de regra de negocio deve ser colocado aqui
+	   // validar cpf por exemplo
+	   
+	   return clienteRepository.save(cliente);
+   }
+   
+   public void excluir (Long clienteId) {
+	   clienteRepository.deleteById(clienteId);
+   }
+}

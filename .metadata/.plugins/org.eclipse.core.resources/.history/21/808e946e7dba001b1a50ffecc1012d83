@@ -68,6 +68,6 @@ public class ApiExceptionHandler extends ResponseEntityExceptionHandler {
 		problema.setTitulo(ex.getMessage());	   
 		
 		
-		return handleExceptionInternal(ex, problema, new HttpHeaders(), status, request );	
+		return handleExceptionInternal(ex, problema, new HttpHeaders(), status, request )	
 	}
 }

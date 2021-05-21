@@ -30,7 +30,6 @@ public class ClienteController {
 	@Autowired
 	private ClienteRepository clienteRepository;
 	
-	@Autowired
 	private CatalogoClienteService catalogoClienteService;
 	
 	@GetMapping
@@ -88,7 +87,7 @@ public class ClienteController {
 
 	}
 	
-	//@RequestBody //indica que os dados virão no corpo da requisição e ele fara a transformação para 
+	// @RequestBody indica que os dados virão no corpo da requisição e ele fara a transformação para 
 	// um objeto java
 	@PostMapping
 	@ResponseStatus(HttpStatus.CREATED)// define um retorno padrao em caso de sucesso
@@ -112,10 +111,7 @@ public class ClienteController {
 		// fazer o proceeso de atualização e não de inclusão
 		cliente.setId(clienteId);
 		
-		//cliente = clienteRepository.save(cliente);
-		
-		cliente = catalogoClienteService.salvar(cliente);
-		
+		cliente = clienteRepository.save(cliente);
 		return ResponseEntity.ok(cliente);
 	}
 	
@@ -126,9 +122,7 @@ public class ClienteController {
 			return ResponseEntity.notFound().build();
 		}
 		
-		//clienteRepository.deleteById(clienteId);
-		
-		catalogoClienteService.excluir(clienteId);
+		clienteRepository.deleteById(clienteId);
 		
 		return ResponseEntity.noContent().build();
 		

@@ -30,7 +30,6 @@ public class ClienteController {
 	@Autowired
 	private ClienteRepository clienteRepository;
 	
-	@Autowired
 	private CatalogoClienteService catalogoClienteService;
 	
 	@GetMapping
@@ -88,7 +87,7 @@ public class ClienteController {
 
 	}
 	
-	//@RequestBody //indica que os dados virão no corpo da requisição e ele fara a transformação para 
+	// @RequestBody indica que os dados virão no corpo da requisição e ele fara a transformação para 
 	// um objeto java
 	@PostMapping
 	@ResponseStatus(HttpStatus.CREATED)// define um retorno padrao em caso de sucesso
