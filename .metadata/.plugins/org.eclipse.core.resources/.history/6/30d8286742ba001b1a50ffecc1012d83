@@ -1,0 +1,21 @@
+package com.algaworks.algalog.api.exceptionhandler;
+
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.MethodArgumentNotValidException;
+import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.web.context.request.WebRequest;
+import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
+
+@ControllerAdvice //indica que essa classe fara o tratamento de advertencias(excessoes) levantadas pelos controladores
+// extende uma classe que ja esta preparada para tratar as excessoes existentes EsponseEntityExceptionHandler
+public class ApiExceptionHandler extends ResponseEntityExceptionHandler {
+
+	@Override
+	protected ResponseEntity<Object> handleMethodArgumentNotValid(MethodArgumentNotValidException ex,
+			HttpHeaders headers, HttpStatus status, WebRequest request) {
+		// TODO Auto-generated method stub
+		return handleExceptionInternal(ex, "Valor Invalido", headers, status, request);
+	}
+}

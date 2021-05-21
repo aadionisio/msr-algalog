@@ -1,0 +1,10 @@
+package com.algaworks.algalog.api.exceptionhandler;
+
+import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
+
+@ControllerAdvice //indica que essa classe fara o tratamento de advertencias(excessoes) levantadas pelos controladores
+// extende uma classe que ja esta preparada para tratar as excessoes existentes EsponseEntityExceptionHandler
+public class ApiExceptionHandler extends ResponseEntityExceptionHandler {
+
+}
