@@ -44,11 +44,8 @@ public class Entrega {
 	 @JoinColumn(name = "cliente_id") //nome da coluna da tabela de cliente que é a pk
      private Cliente cliente;
 	 
-	 @Valid
-	 @NotNull
      @Embedded // aponta para um classe externa para buscar as informações complementares. poderia fazer uma tabela ou não. 
 	 private Destinatario destinatario;
-     
      
      @NotNull
      private BigDecimal taxa;
