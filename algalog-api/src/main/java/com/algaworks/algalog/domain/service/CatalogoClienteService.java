@@ -12,6 +12,16 @@ import lombok.AllArgsConstructor;
 @Service // indica que essa classe sera um servico do spring e que ela realizara processos de negocios
 public class CatalogoClienteService {
    private ClienteRepository clienteRepository;
+   
+   public Cliente buscar(Long clienteId) {
+		return clienteRepository.findById(clienteId)
+				//se encontrar o cliente coloca ele no objeto cliente. senao (orelse) levanta uma excessao
+				.orElseThrow(() -> new NegocioException("Cliente enviado, não existe na base de dados. Verifique o codigo enviado."));
+		
+   }
+   
+   
+   
    @Transactional // anotação que diz que esse metodo só pode ser executado durante uma transação com o banco de dados
    public Cliente salvar(Cliente cliente) {
 	   // todo o codigo que trata de regra de negocio deve ser colocado aqui
