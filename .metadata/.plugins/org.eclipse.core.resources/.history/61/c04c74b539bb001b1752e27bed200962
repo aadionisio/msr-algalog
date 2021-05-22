@@ -1,0 +1,11 @@
+package com.algaworks.algalog.common;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration //componente spring com oobjetivo de configuração
+public class ModelMapperConfig {
+	
+	public ModelMapper modelMapper() {
+		return new modelMapper();
+	}
+}

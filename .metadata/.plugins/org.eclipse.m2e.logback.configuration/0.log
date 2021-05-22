@@ -1623,3 +1623,225 @@
 2021-05-22 16:07:00,899 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-05-22 16:07:00,899 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-05-22 16:07:00,899 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 16:56:45,989 [Worker-130: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algalog:algalog-api:0.0.1-SNAPSHOT @ /home/alexandre/Workspaces/ws-msr/algalog-api/pom.xml.
+2021-05-22 16:56:46,900 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 16:56:46,900 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 16:56:46,906 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-22 16:56:46,906 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-22 16:56:46,915 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 16:56:46,915 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 16:56:46,915 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 16:56:48,601 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 16:56:48,601 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 16:56:48,601 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 16:56:48,613 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 16:56:48,622 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.4.2/modelmapper-2.4.2-sources.jar
+2021-05-22 16:56:48,624 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 16:56:48,625 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 16:56:48,625 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 16:56:49,001 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.4.2/modelmapper-2.4.2-sources.jar
+2021-05-22 16:56:49,543 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.modelmapper:modelmapper:2.4.2
+2021-05-22 16:56:49,859 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 16:56:49,859 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 16:56:49,859 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-22 16:56:49,859 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-22 16:56:49,861 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 16:56:49,861 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 16:56:49,861 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 16:57:09,780 [Worker-123: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algalog:algalog-api:0.0.1-SNAPSHOT @ /home/alexandre/Workspaces/ws-msr/algalog-api/pom.xml.
+2021-05-22 16:57:10,230 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 16:57:10,231 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 16:57:10,233 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-22 16:57:10,233 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-05-22 16:57:10,235 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 16:57:10,235 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 16:57:10,235 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:03:07,266 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:03:07,266 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:03:07,266 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:03:07,302 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:03:07,304 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:03:07,305 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:03:07,305 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:03:09,439 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:03:09,439 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:03:09,440 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:03:09,447 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:03:09,449 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:03:09,449 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:03:09,449 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:03:33,577 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:03:33,577 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:03:33,578 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:03:33,589 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:03:33,593 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:03:33,593 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:03:33,593 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:05:17,005 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:05:17,005 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:05:17,005 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:05:17,013 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:05:17,016 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:05:17,016 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:05:17,016 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:05:24,858 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:05:24,858 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:05:24,858 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:05:24,865 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:05:24,867 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:05:24,867 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:05:24,867 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:06:20,571 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:06:20,571 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:06:20,572 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:06:20,580 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:06:20,584 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:06:20,584 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:06:20,584 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:07:31,785 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:07:31,785 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:07:31,786 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:07:31,806 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:07:31,809 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:07:31,809 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:07:31,809 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:10:09,942 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:10:09,943 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:10:09,944 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:10:09,981 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:10:09,983 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:10:09,983 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:10:09,983 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:16:45,169 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:16:45,169 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:16:45,169 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:16:45,180 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:16:45,184 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:16:45,184 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:16:45,184 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:20:07,590 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:20:07,590 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:20:07,590 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:20:07,610 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:20:07,612 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:20:07,612 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:20:07,612 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:26:57,095 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:26:57,096 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:26:57,096 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:26:57,116 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:26:57,118 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:26:57,118 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:26:57,119 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:29:36,023 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:29:36,023 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:29:36,023 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:29:36,030 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:29:36,033 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:29:36,033 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:29:36,033 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:32:26,354 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:32:26,354 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:32:26,355 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:32:26,381 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:32:26,385 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:32:26,385 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:32:26,385 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:32:37,692 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:32:37,692 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:32:37,693 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:32:37,703 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:32:37,706 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:32:37,706 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:32:37,706 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:34:04,278 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:34:04,278 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:34:04,278 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:34:04,294 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:34:04,297 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:34:04,298 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:34:04,298 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:41:19,844 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:41:19,844 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:41:19,844 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:41:19,883 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:41:19,885 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:41:19,885 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:41:19,885 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:42:02,537 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:42:02,537 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:42:02,537 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:42:02,575 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:42:02,576 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:42:02,577 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:42:02,577 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:42:06,988 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:42:06,988 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:42:06,989 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:42:06,997 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:42:06,999 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:42:06,999 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:42:06,999 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:50:24,927 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:50:24,927 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:50:24,928 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:50:24,958 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:50:24,962 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:50:24,963 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:50:24,963 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:51:28,847 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:51:28,847 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:51:28,847 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:51:28,867 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:51:28,869 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:51:28,869 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:51:28,870 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:52:08,114 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:52:08,114 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:52:08,114 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:52:08,141 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:52:08,143 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:52:08,143 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:52:08,143 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:52:59,456 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:52:59,456 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:52:59,456 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:52:59,464 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:52:59,467 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:52:59,467 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:52:59,467 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:56:40,644 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:56:40,644 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:56:40,645 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:56:40,665 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:56:40,667 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:56:40,667 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:56:40,667 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:56:46,869 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:56:46,869 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:56:46,869 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:56:46,877 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:56:46,879 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:56:46,879 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:56:46,879 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 17:59:33,668 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:59:33,668 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:59:33,669 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 17:59:33,696 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 17:59:33,698 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 17:59:33,698 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 17:59:33,698 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 18:01:16,918 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 18:01:16,918 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 18:01:16,919 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 18:01:16,939 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 18:01:16,941 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 18:01:16,941 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 18:01:16,941 [Worker-158: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
+2021-05-22 18:11:26,475 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 18:11:26,475 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 18:11:26,475 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-05-22 18:11:26,496 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-05-22 18:11:26,498 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-22 18:11:26,498 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-22 18:11:26,498 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alexandre/Workspaces/ws-msr/algalog-api/src/test/resources
