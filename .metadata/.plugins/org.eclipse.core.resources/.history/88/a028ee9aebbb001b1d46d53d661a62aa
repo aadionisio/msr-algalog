@@ -1,0 +1,13 @@
+package com.algaworks.algalog.api.model;
+// definindo o modelo da resposta (json de saida)
+
+import java.time.OffsetDateTime;
+
+public class OcorrenciaModel {
+
+	private Long id;
+	private String descricao;
+	private OffsetDateTime dataRegistro;
+	
+	
+}

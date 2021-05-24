@@ -17,10 +17,11 @@ import lombok.AllArgsConstructor;
 public class EntregaAssembler {
 	private ModelMapper modelMapper;
 	
+	// esse metodo transforma um objeto do tipo entrega para objeto do tipo EntregaModel retornando um unico registro
 	public EntregaModel toModel ( Entrega entrega) {
 		return modelMapper.map( entrega , EntregaModel.class);
 	}
-	
+	// esse metodo retorna uma lista de entregas transformando ela em uma lista de EntregaModel
 	public List<EntregaModel> toCollectionModel(List<Entrega> entregas){
 		return entregas.stream()
 				.map(this::toModel)
